@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 MAINTAINER james@gauntlt.org
 
 ARG ARACHNI_VERSION=arachni-1.5.1-0.5.12
